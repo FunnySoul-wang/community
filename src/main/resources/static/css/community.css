@@ -1,0 +1,105 @@
+body{
+    background-color: #efefef;
+}
+
+.main{
+    background-color: white;
+    margin: 30px;
+}
+
+.btn-publish{
+    float: right;
+    margin-bottom: 15px;
+}
+
+/*.des-in{*/
+/*    height: 300px;*/
+/*}*/
+
+.media-object{
+    width: 40px;
+    height: 40px;
+}
+
+.text-desc{
+    font-size: 12px;
+    font-weight: normal;
+    color: #999;
+}
+
+.page-show{
+    float: right;
+}
+
+.right-show{
+    border-right: 1px solid #ccc;
+}
+
+.header-img{
+    width: 20px;
+    height: 20px;
+}
+
+.profile .section{
+    margin-top: 15px;
+}
+
+.community-menu{
+    display: block;
+    color: #999;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+
+.jumbotron{
+    margin: 50px;
+}
+
+.comment{
+    margin: 15px 0;
+}
+.btn-comment{
+    float: right;
+    margin-bottom: 10px;
+}
+
+.btn-success{
+    float: right;
+    margin-bottom: 10px;
+}
+
+.media-body{
+    padding-top: 14px;
+}
+.menu{
+    color: #999;
+    margin-top: 5px;
+}
+
+.menu .icon{
+    margin-right: 6px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.menu .icon:hover{
+    color: #499ef3;
+}
+
+.menu .active{
+    color: #499ef3;
+}
+
+.comments{
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 5px;
+}
+
+.sub-comments{
+    border-radius: 5px;
+    margin-top: 10px;
+    border: 1px solid #eee;
+    padding-top: 15px;
+    margin-bottom: 15px;
+}
